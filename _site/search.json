@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog Template",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Richa Anghan",
+    "section": "",
+    "text": "I am a Master of Business Analytics student at Monash University, currently based in Melbourne, Australia. My journey into analytics has been shaped by a blend of business background, curiosity, and a growing interest in how data influences modern decision-making.\nBefore pursuing analytics, I completed a Bachelor of Business Management with a specialisation in Marketing. Through my undergraduate studies, I developed an understanding of consumer behaviour, communication, and strategy but I also began to see how analytical reasoning could enhance these traditional areas of business.\nI come from a business-oriented family, where entrepreneurship has been passed down through generations. Growing up around discussions of strategy, operations, and markets helped me appreciate the practical side of business management from an early age. This environment taught me to think critically, stay adaptable, and value long-term vision.\nDuring my internship, I was introduced to data-driven projects for the first time. I became fascinated by how even small pieces of information could reveal patterns that shaped entire business decisions. That experience encouraged me to shift my focus toward analytics and inspired me to continue developing technical skills that complement my business background.\nAt Monash, I am specialising in areas such as data management, statistical modelling, and problem-solving. I have developed strong technical proficiency in SQL and continue to build my skills in R, data visualisation, and interpretation. My goal is to apply these tools in ways that bring clarity and insight to complex problems, bridging the gap between business understanding and analytical thinking.\nOutside of university, I enjoy exploring Melbourne’s café culture, travelling, and spending time in nature. I believe in lifelong learning, self-improvement, and maintaining balance between academic growth and personal curiosity. Each new experience helps me see the world with a broader perspective and shapes the way I approach both work and life."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ETC5523 Blog Assessment",
+    "section": "",
+    "text": "Welcome To My Blog Template\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 18, 2022\n\n\nEmi Tanaka\n\n\n\n\n\nNo matching items"
+  }
+]

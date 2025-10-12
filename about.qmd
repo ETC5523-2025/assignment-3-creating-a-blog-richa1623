@@ -1,13 +1,29 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Richa Anghan"
+image: image.jpg
 about:
-  template: jolla
+  template: "jolla"
   links:
     - icon: github
-      text: Github
-      href: https://github.com/etc5523-2022
-
+      text: "Github"
+      href: "https://github.com/richa1623"
+    - icon: linkedin
+      text: "Linkedin"
+      href: "www.linkedin.com/in/richa-anghan-363586244"
+    - icon: envelope
+      text: "Email"
+      href: "mailto:rang0020@student.monash.edu"
+  
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+I am a Master of Business Analytics student at Monash University, currently based in Melbourne, Australia. My journey into analytics has been shaped by a blend of business background, curiosity, and a growing interest in how data influences modern decision-making.
+
+Before pursuing analytics, I completed a Bachelor of Business Management with a specialisation in Marketing. Through my undergraduate studies, I developed an understanding of consumer behaviour, communication, and strategy but I also began to see how analytical reasoning could enhance these traditional areas of business.
+
+I come from a business-oriented family, where entrepreneurship has been passed down through generations. Growing up around discussions of strategy, operations, and markets helped me appreciate the practical side of business management from an early age. This environment taught me to think critically, stay adaptable, and value long-term vision.
+
+During my internship, I was introduced to data-driven projects for the first time. I became fascinated by how even small pieces of information could reveal patterns that shaped entire business decisions. That experience encouraged me to shift my focus toward analytics and inspired me to continue developing technical skills that complement my business background.
+
+At Monash, I am specialising in areas such as data management, statistical modelling, and problem-solving. I have developed strong technical proficiency in SQL and continue to build my skills in R, data visualisation, and interpretation. My goal is to apply these tools in ways that bring clarity and insight to complex problems, bridging the gap between business understanding and analytical thinking.
+
+Outside of university, I enjoy exploring Melbourne’s café culture, travelling, and spending time in nature. I believe in lifelong learning, self-improvement, and maintaining balance between academic growth and personal curiosity. Each new experience helps me see the world with a broader perspective and shapes the way I approach both work and life.

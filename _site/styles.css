@@ -16,3 +16,10 @@ a {
   color: #0077cc;             
 }
 
+.about-image img {
+  width: 50px !important;       /* smaller size */
+  height: 200px !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+  border: 10px solid #2c3e50;
+}
