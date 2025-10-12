@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Richa Anghan">
+<meta name="dcterms.date" content="2025-10-12">
 
-<title>ETC5523 Blog Assessment – Uncovering the Climate Signal Behind Australia’s 2019–20 Bushfires</title>
+<title>Uncovering the Climate Signal Behind Australia’s 2019–20 Bushfires – Richa Anghan</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -79,9 +81,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -140,7 +142,7 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Uncovering the Climate Signal Behind Australia’s 2019–20 Bushfires</span>
+    <span class="navbar-title">Richa Anghan</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -157,16 +159,8 @@ window.Quarto = {
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Posts</span></a>
-  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
-  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/richa1623"> <i class="bi bi-github" role="img">
 </i> 
@@ -183,14 +177,30 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">ETC5523 Blog Assessment</h1>
-                      </div>
+      <h1 class="title">Uncovering the Climate Signal Behind Australia’s 2019–20 Bushfires</h1>
+            <p class="subtitle lead">How heat and fire weather set the stage for Black summer</p>
+                                <div class="quarto-categories">
+                <div class="quarto-category">ETC5523</div>
+              </div>
+                  </div>
   </div>
     
   
   <div class="quarto-title-meta column-page-left">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Richa Anghan </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">October 12, 2025</p>
+      </div>
+    </div>
     
       
     </div>
@@ -201,7 +211,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bmV3cw==">news <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -209,42 +219,94 @@ window.Quarto = {
 
 
 
+<section id="problem-description" class="level2">
+<h2 class="anchored" data-anchor-id="problem-description">Problem description</h2>
+<p>The <strong>2019–20 Black Summer bushfires</strong> were among the most destructive events in Australia’s recorded history, burning over 18 million hectares and destroying thousands of homes.<br>
+The devastation raised one defining question: <em>to what extent did human-driven climate change make these catastrophic conditions more likely?</em></p>
+<p>This post summarises the findings of <em>van Oldenborgh et al.</em> (2021), a landmark attribution study that combined historical observations with climate-model simulations to quantify how much global warming influenced the extreme fire weather that fueled Australia’s Black Summer.</p>
+</section>
+<section id="analysis" class="level2">
+<h2 class="anchored" data-anchor-id="analysis">Analysis</h2>
+<p><strong>Data Source:</strong><br>
+The study by <strong>van Oldenborgh et al.&nbsp;(2021)</strong> combined two complementary data sources:</p>
+<ol type="1">
+<li><strong>ERA5 reanalysis data</strong> – providing observed temperature, humidity, rainfall, and wind from 1979 onward, used to calculate the <strong>Fire Weather Index (FWI)</strong> and <strong>Monthly Severity Rating (MSR)</strong>.<br>
+</li>
+<li><strong>CMIP5 and CMIP6 climate-model ensembles</strong> – simulating two climates:
+<ul>
+<li>one representing the <strong>current world with greenhouse-gas emissions</strong>, and<br>
+</li>
+<li>a <strong>counterfactual world without anthropogenic forcing</strong>.</li>
+</ul></li>
+</ol>
+<p>These datasets allowed direct comparison between observed conditions and what would have occurred in a world without human-driven warming.<br>
+Supporting national statistics from the <strong>Bureau of Meteorology (2020)</strong> and <strong>CSIRO &amp; BOM (2020)</strong> provided context on temperature and rainfall anomalies during 2019.</p>
+<p><strong>Findings:</strong></p>
+<p>The study found something striking: <strong>human-induced climate change has made extreme fire-weather conditions at least four times more likely</strong> than they were just over a century ago.<br>
+In simple terms, the same kind of devastating fire season we once considered “rare” has now become much more frequent.</p>
+<p>Figure <a href="#fig-1" class="quarto-xref">Figure&nbsp;1</a> captures this visually.<br>
+The four panels show both the observed and modelled trends for the <strong>Fire Weather Index (FWI)</strong> and <strong>Monthly Severity Rating (MSR)</strong> across south-eastern Australia from 1979 to 2020.<br>
+The green lines represent the 10-year running mean, clearly climbing upwards over time, while the dotted lines mark the extraordinary 2019–20 fire season.<br>
+Together, these plots tell a powerful story: Australia’s climate has tilted toward hotter, drier, and windier conditions — the perfect recipe for large-scale fires.</p>
+<div id="fig-1" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/Screenshot 2025-10-12 175412.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: Reproduced from van Oldenborgh et al.&nbsp;(2021, Fig. 3).
+</figcaption>
+</figure>
+</div>
+<p>Table <a href="#tbl-1" class="quarto-xref">Table&nbsp;1</a> lists the different <strong>climate-model ensembles</strong> used in the study.<br>
+Each model tested both natural-only and all-forcing scenarios, and all pointed to the same conclusion — <strong>the rise in fire-weather intensity cannot be explained by natural variability alone</strong>.<br>
+Instead, it directly reflects the impact of greenhouse-gas-driven warming.</p>
+<p>To verify that this observed increase arises from human activity, the study incorporated multiple climate-model ensembles (<a href="#tbl-1" class="quarto-xref">Table&nbsp;1</a>).<br>
+Each model independently reproduced similar upward trends when anthropogenic forcing was included, but not when only natural variability was simulated.<br>
+This confirms that <strong>rising greenhouse-gas concentrations are the dominant driver</strong> of the increased fire-weather intensity.<br>
+</p>
+<div id="tbl-1" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Table&nbsp;1: Reproduced from van Oldenborgh et al.&nbsp;(2021, Table 1)
+</figcaption>
+<div aria-describedby="tbl-1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/Screenshot 2025-10-12 172244-01.png" class="img-fluid figure-img">
+</div>
+</figure>
+</div>
+<p>Both Figure <a href="#fig-1" class="quarto-xref">Figure&nbsp;1</a> and Table <a href="#tbl-1" class="quarto-xref">Table&nbsp;1</a> show that our modern climate has shifted toward extremes that once seemed unimaginable.<br>
+What we witnessed during the Black Summer wasn’t an accident of nature — it was a glimpse into a new reality shaped by human influence.<br>
+The results make one thing clear: climate change has dramatically raised the baseline risk of severe bushfire weather across Australia.</p>
+</section>
+<section id="conclusion" class="level1">
+<h1>Conclusion</h1>
+<p>The <strong>2019–20 bushfires</strong> were a tragic chapter in Australia’s history, but they also served as a warning.<br>
+The findings of <em>van Oldenborgh et al.</em> (2021) show that the extreme heat and fire-weather conditions behind that season have become at least <strong>four times more likely</strong> due to human-caused climate change.<br>
+While natural variability and local factors like vegetation and ignition sources still play a role, the underlying conditions are now far more dangerous than they once were.</p>
+<p>Like many scientific studies, this one has its limitations — for instance, global climate models still struggle to capture local drought patterns and fine-scale regional effects.<br>
+Even so, the evidence from both observations and models points in the same direction: the atmosphere we live in today is warmer, drier, and far more fire-prone.</p>
+<p>Understanding this connection between climate change and bushfire risk is crucial for the years ahead.<br>
+It’s not just about predicting the next fire season — it’s about recognising that we’ve already entered a new era of heightened risk, and acting now to prepare for it.</p>
+</section>
+<section id="references" class="level1">
+<h1>References</h1>
+<p>van Oldenborgh, G. J., Krikken, F., Lewis, S. C., Leach, N. J., Lehner, F., Saunders, K. R., van Weele, M., Haustein, K., Li, S., Wallom, D., Sparrow, S., Arrighi, J., Singh, R. P., van Aalst, M. K., Philip, S. Y., Vautard, R., Otto, F. E. L., &amp; Cullen, H. (2021). Attribution of the Australian bushfire risk to anthropogenic climate change. Natural Hazards and Earth System Sciences, 21(3), 941–960. <a href="https://doi.org/10.5194/nhess-21-941-2021" class="uri">https://doi.org/10.5194/nhess-21-941-2021</a></p>
+<p>Supporting evidence (climate context): Bureau of Meteorology (BoM). (2020). Annual climate statement 2019: Periods of extreme heat in Australia. Retrieved from <a href="http://media.bom.gov.au/releases/739/annualclimate-statement-2019-periods-of-extreme-heat-in" class="uri">http://media.bom.gov.au/releases/739/annualclimate-statement-2019-periods-of-extreme-heat-in</a></p>
+<p>CSIRO &amp; Bureau of Meteorology. (2020). State of the Climate 2020. CSIRO, Australia. Retrieved from <a href="https://www.csiro.au/en/research/environmental-impacts/climate-change/State-of-the-Climate" class="uri">https://www.csiro.au/en/research/environmental-impacts/climate-change/State-of-the-Climate</a></p>
+<p>Reid, C. E., Brauer, M., Johnston, F. H., Jerrett, M., Balmes, J. R., &amp; Elliott, C. T. (2016). Critical review of health impacts of wildfire smoke exposure. Environmental Health Perspectives, 124(9), 1334–1343. <a href="https://doi.org/10.1289/ehp.1409277" class="uri">https://doi.org/10.1289/ehp.1409277</a></p>
+</section>
+<section id="ai-link" class="level1">
+<h1>AI Link</h1>
+<p>The link to my chatgpt is <a href="https://chatgpt.com/share/68eb5ed0-e7b0-8000-9c14-a5ef863bf73b" class="uri">https://chatgpt.com/share/68eb5ed0-e7b0-8000-9c14-a5ef863bf73b</a></p>
 
 
 
+</section>
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bmV3cw==" data-listing-date-sort="1658066400000" data-listing-file-modified-sort="1759192584801" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10">
-<div class="thumbnail"><a href="./posts/welcome/index.html" class="no-external">
 
-<p class="card-img-top"><img src="posts\welcome\thumbnail.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/welcome/index.html" class="no-external">Welcome To My Blog Template</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('bmV3cw=='); return false;">news</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/welcome/index.html" class="no-external">
-This is the first post in a Quarto blog. Welcome!
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/welcome/index.html" class="no-external">
-<div class="listing-date">
-Jul 18, 2022
-</div>
-<div class="listing-author">
-Emi Tanaka
-</div>
-</a>
-</div>
-</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->

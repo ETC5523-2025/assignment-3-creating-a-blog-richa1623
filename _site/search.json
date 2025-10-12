@@ -16,8 +16,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ETC5523 Blog Assessment",
+    "title": "Uncovering the Climate Signal Behind Australia’s 2019–20 Bushfires",
     "section": "",
-    "text": "Welcome To My Blog Template\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 18, 2022\n\n\nEmi Tanaka\n\n\n\n\n\nNo matching items"
+    "text": "The 2019–20 Black Summer bushfires were among the most destructive events in Australia’s recorded history, burning over 18 million hectares and destroying thousands of homes.\nThe devastation raised one defining question: to what extent did human-driven climate change make these catastrophic conditions more likely?\nThis post summarises the findings of van Oldenborgh et al. (2021), a landmark attribution study that combined historical observations with climate-model simulations to quantify how much global warming influenced the extreme fire weather that fueled Australia’s Black Summer."
+  },
+  {
+    "objectID": "index.html#problem-description",
+    "href": "index.html#problem-description",
+    "title": "Uncovering the Climate Signal Behind Australia’s 2019–20 Bushfires",
+    "section": "",
+    "text": "The 2019–20 Black Summer bushfires were among the most destructive events in Australia’s recorded history, burning over 18 million hectares and destroying thousands of homes.\nThe devastation raised one defining question: to what extent did human-driven climate change make these catastrophic conditions more likely?\nThis post summarises the findings of van Oldenborgh et al. (2021), a landmark attribution study that combined historical observations with climate-model simulations to quantify how much global warming influenced the extreme fire weather that fueled Australia’s Black Summer."
+  },
+  {
+    "objectID": "index.html#analysis",
+    "href": "index.html#analysis",
+    "title": "Uncovering the Climate Signal Behind Australia’s 2019–20 Bushfires",
+    "section": "Analysis",
+    "text": "Analysis\nData Source:\nThe study by van Oldenborgh et al. (2021) combined two complementary data sources:\n\nERA5 reanalysis data – providing observed temperature, humidity, rainfall, and wind from 1979 onward, used to calculate the Fire Weather Index (FWI) and Monthly Severity Rating (MSR).\n\nCMIP5 and CMIP6 climate-model ensembles – simulating two climates:\n\none representing the current world with greenhouse-gas emissions, and\n\na counterfactual world without anthropogenic forcing.\n\n\nThese datasets allowed direct comparison between observed conditions and what would have occurred in a world without human-driven warming.\nSupporting national statistics from the Bureau of Meteorology (2020) and CSIRO & BOM (2020) provided context on temperature and rainfall anomalies during 2019.\nFindings:\nThe study found something striking: human-induced climate change has made extreme fire-weather conditions at least four times more likely than they were just over a century ago.\nIn simple terms, the same kind of devastating fire season we once considered “rare” has now become much more frequent.\nFigure Figure 1 captures this visually.\nThe four panels show both the observed and modelled trends for the Fire Weather Index (FWI) and Monthly Severity Rating (MSR) across south-eastern Australia from 1979 to 2020.\nThe green lines represent the 10-year running mean, clearly climbing upwards over time, while the dotted lines mark the extraordinary 2019–20 fire season.\nTogether, these plots tell a powerful story: Australia’s climate has tilted toward hotter, drier, and windier conditions — the perfect recipe for large-scale fires.\n\n\n\n\n\n\nFigure 1: Reproduced from van Oldenborgh et al. (2021, Fig. 3).\n\n\n\nTable Table 1 lists the different climate-model ensembles used in the study.\nEach model tested both natural-only and all-forcing scenarios, and all pointed to the same conclusion — the rise in fire-weather intensity cannot be explained by natural variability alone.\nInstead, it directly reflects the impact of greenhouse-gas-driven warming.\nTo verify that this observed increase arises from human activity, the study incorporated multiple climate-model ensembles (Table 1).\nEach model independently reproduced similar upward trends when anthropogenic forcing was included, but not when only natural variability was simulated.\nThis confirms that rising greenhouse-gas concentrations are the dominant driver of the increased fire-weather intensity.\n\n\n\n\nTable 1: Reproduced from van Oldenborgh et al. (2021, Table 1)\n\n\n\n\n\n\nBoth Figure Figure 1 and Table Table 1 show that our modern climate has shifted toward extremes that once seemed unimaginable.\nWhat we witnessed during the Black Summer wasn’t an accident of nature — it was a glimpse into a new reality shaped by human influence.\nThe results make one thing clear: climate change has dramatically raised the baseline risk of severe bushfire weather across Australia."
   }
 ]

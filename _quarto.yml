@@ -8,8 +8,6 @@ website:
         file: index.qmd
       - text: "About"
         file: about.qmd
-      - text: "Blog"
-        file: index.qmd
     right:
       - icon: github
         href: https://github.com/richa1623

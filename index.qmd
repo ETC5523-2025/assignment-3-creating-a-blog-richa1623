@@ -1,14 +1,88 @@
 ---
-title: "ETC5523 Blog Assessment"
+title: "Uncovering the Climate Signal Behind Australia’s 2019–20 Bushfires"
+subtitle: "How heat and fire weather set the stage for Black summer" 
+author: "Richa Anghan"
+date: October 12, 2025
+categories: [ETC5523]
 listing:
   contents: posts
   sort: "date desc"
-  type: default
   categories: true
+  type: default
   sort-ui: false
   filter-ui: false
 page-layout: full
 title-block-banner: true
 ---
 
+## Problem description
 
+The **2019–20 Black Summer bushfires** were among the most destructive events in Australia’s recorded history, burning over 18 million hectares and destroying thousands of homes.\
+The devastation raised one defining question: *to what extent did human-driven climate change make these catastrophic conditions more likely?*
+
+This post summarises the findings of *van Oldenborgh et al.* (2021), a landmark attribution study that combined historical observations with climate-model simulations to quantify how much global warming influenced the extreme fire weather that fueled Australia’s Black Summer.
+
+## Analysis
+
+**Data Source:**\
+The study by **van Oldenborgh et al. (2021)** combined two complementary data sources:
+
+1.  **ERA5 reanalysis data** – providing observed temperature, humidity, rainfall, and wind from 1979 onward, used to calculate the **Fire Weather Index (FWI)** and **Monthly Severity Rating (MSR)**.\
+2.  **CMIP5 and CMIP6 climate-model ensembles** – simulating two climates:
+    -   one representing the **current world with greenhouse-gas emissions**, and\
+    -   a **counterfactual world without anthropogenic forcing**.
+
+These datasets allowed direct comparison between observed conditions and what would have occurred in a world without human-driven warming.\
+Supporting national statistics from the **Bureau of Meteorology (2020)** and **CSIRO & BOM (2020)** provided context on temperature and rainfall anomalies during 2019.
+
+**Findings:**
+
+The study found something striking: **human-induced climate change has made extreme fire-weather conditions at least four times more likely** than they were just over a century ago.  
+In simple terms, the same kind of devastating fire season we once considered “rare” has now become much more frequent.
+
+Figure [@fig-1] captures this visually.  
+The four panels show both the observed and modelled trends for the **Fire Weather Index (FWI)** and **Monthly Severity Rating (MSR)** across south-eastern Australia from 1979 to 2020.  
+The green lines represent the 10-year running mean, clearly climbing upwards over time, while the dotted lines mark the extraordinary 2019–20 fire season.  
+Together, these plots tell a powerful story: Australia’s climate has tilted toward hotter, drier, and windier conditions — the perfect recipe for large-scale fires.
+
+![Reproduced from van Oldenborgh et al. (2021, Fig. 3).](images/Screenshot%202025-10-12%20175412.png){#fig-1}
+
+Table [@tbl-1 ] lists the different **climate-model ensembles** used in the study.  
+Each model tested both natural-only and all-forcing scenarios, and all pointed to the same conclusion — **the rise in fire-weather intensity cannot be explained by natural variability alone**.  
+Instead, it directly reflects the impact of greenhouse-gas-driven warming.
+
+To verify that this observed increase arises from human activity, the study incorporated multiple climate-model ensembles ([@tbl-1]).\
+Each model independently reproduced similar upward trends when anthropogenic forcing was included, but not when only natural variability was simulated.\
+This confirms that **rising greenhouse-gas concentrations are the dominant driver** of the increased fire-weather intensity.\
+
+![Reproduced from van Oldenborgh et al. (2021, Table 1)](images/Screenshot 2025-10-12 172244-01.png){#tbl-1}
+
+Both Figure [@fig-1] and Table [@tbl-1] show that our modern climate has shifted toward extremes that once seemed unimaginable.  
+What we witnessed during the Black Summer wasn’t an accident of nature — it was a glimpse into a new reality shaped by human influence.  
+The results make one thing clear: climate change has dramatically raised the baseline risk of severe bushfire weather across Australia.
+
+
+# Conclusion
+
+The **2019–20 bushfires** were a tragic chapter in Australia’s history, but they also served as a warning.  
+The findings of *van Oldenborgh et al.* (2021) show that the extreme heat and fire-weather conditions behind that season have become at least **four times more likely** due to human-caused climate change.  
+While natural variability and local factors like vegetation and ignition sources still play a role, the underlying conditions are now far more dangerous than they once were.  
+
+Like many scientific studies, this one has its limitations — for instance, global climate models still struggle to capture local drought patterns and fine-scale regional effects.  
+Even so, the evidence from both observations and models points in the same direction: the atmosphere we live in today is warmer, drier, and far more fire-prone.  
+
+Understanding this connection between climate change and bushfire risk is crucial for the years ahead.  
+It’s not just about predicting the next fire season — it’s about recognising that we’ve already entered a new era of heightened risk, and acting now to prepare for it.
+
+# References 
+
+van Oldenborgh, G. J., Krikken, F., Lewis, S. C., Leach, N. J., Lehner, F., Saunders, K. R., van Weele, M., Haustein, K., Li, S., Wallom, D., Sparrow, S., Arrighi, J., Singh, R. P., van Aalst, M. K., Philip, S. Y., Vautard, R., Otto, F. E. L., & Cullen, H. (2021). Attribution of the Australian bushfire risk to anthropogenic climate change. Natural Hazards and Earth System Sciences, 21(3), 941–960. <https://doi.org/10.5194/nhess-21-941-2021>
+
+Supporting evidence (climate context): Bureau of Meteorology (BoM). (2020). Annual climate statement 2019: Periods of extreme heat in Australia. Retrieved from <http://media.bom.gov.au/releases/739/annualclimate-statement-2019-periods-of-extreme-heat-in>
+
+CSIRO & Bureau of Meteorology. (2020). State of the Climate 2020. CSIRO, Australia. Retrieved from <https://www.csiro.au/en/research/environmental-impacts/climate-change/State-of-the-Climate>
+
+Reid, C. E., Brauer, M., Johnston, F. H., Jerrett, M., Balmes, J. R., & Elliott, C. T. (2016). Critical review of health impacts of wildfire smoke exposure. Environmental Health Perspectives, 124(9), 1334–1343. <https://doi.org/10.1289/ehp.1409277>
+
+# AI Link
+The link to my chatgpt is <https://chatgpt.com/share/68eb5ed0-e7b0-8000-9c14-a5ef863bf73b>
