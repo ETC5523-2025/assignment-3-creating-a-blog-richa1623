@@ -1,6 +1,6 @@
 ---
 title: "Richa Anghan"
-image: image.jpg
+image: image.jpeg
 about:
   template: "jolla"
   links:
