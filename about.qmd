@@ -18,7 +18,7 @@ about:
 
 I am a Master of Business Analytics student at Monash University, currently based in Melbourne, Australia. My journey into analytics has been shaped by a blend of business background, curiosity, and a growing interest in how data influences modern decision-making.
 
-Before pursuing analytics, I completed a Bachelor of Business Management with a specialisation in Marketing. Through my undergraduate studies, I developed an understanding of consumer behaviour, communication, and strategy but I also began to see how analytical reasoning could enhance these traditional areas of business.
+Before pursuing analytics, I completed a Bachelor of Business Management with a specialisation in Marketing. Through my undergraduate studies, I developed an understanding of consumer behaviour, communication, and strategy but I also began to see how analytical reasoning could enhance these traditional areas of business. 
 
 I come from a business-oriented family, where entrepreneurship has been passed down through generations. Growing up around discussions of strategy, operations, and markets helped me appreciate the practical side of business management from an early age. This environment taught me to think critically, stay adaptable, and value long-term vision.
 
