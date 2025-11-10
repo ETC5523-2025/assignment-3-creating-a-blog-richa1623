@@ -1,0 +1,19 @@
+/* css styles */
+.navbar-dark, .quarto-title-banner {
+  background-color: #8b9a9f;
+}
+
+body {
+  background-color: #fdfdfd;
+  font-family: "Roboto", sans-serif;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  color: #2c3e50;
+}
+
+a {
+  color: #0077cc;
+}
+.quarto-category-widget { display: none ; }
